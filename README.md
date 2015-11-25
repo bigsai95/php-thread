@@ -5,7 +5,7 @@ PHP 子程序
 ## Composer
     {
         "require": {
-            "rde/adapter": "dev-master"
+            "aban/thread": "dev-master"
         }
     }
 
