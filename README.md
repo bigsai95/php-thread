@@ -2,13 +2,6 @@
 
 PHP 子程序
 
-## Composer
-    {
-        "require": {
-            "aban/thread": "dev-master"
-        }
-    }
-
 ## Code Example
 ```php
 require __DIR__.'/../vendor/autoload.php';
